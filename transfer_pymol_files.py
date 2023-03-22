@@ -1,3 +1,5 @@
+#This is an automation script, which transfers 'pymol-distance-excecute' to each 'n#' folder.
+
 import os
 import shutil
 

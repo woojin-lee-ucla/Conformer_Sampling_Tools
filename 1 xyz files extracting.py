@@ -19,3 +19,7 @@ for i in range(100):
 
 
 
+# 1 xyz files extracting.py # You can extract each .xyz coordinate from merged .xyz file (crest_conformers.xyz)
+# 2 preparing Gaussian input files.py # you need to install ase through 'pip install ase' then, enter below in your terminal 
+# for i in {0..27}; do ase-gui file_"$i".xyz -o file_"$i".gjf; done
+# 3 add input files automatically in each .gjf

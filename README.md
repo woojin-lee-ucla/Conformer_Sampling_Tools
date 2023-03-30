@@ -1,5 +1,5 @@
 # Conformer_Sampling_Tools
-The manual analysis takes a long time by checking each result from numerous conformers. This code automates the process of quantitative analysis of conformers. 
+The manual analysis takes a long time by checking each result from numerous conformers. The codes automate the process of quantitative analysis of conformers. 
 
 The steps of this code is shown below:
 1 xyz files extracting.py - conformers.xyz -> conformer1.xyz, conformer2.xyz, conformer3.xyz, ... , conformer100.xyz

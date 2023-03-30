@@ -1,3 +1,4 @@
+# This code transfers all .gjf files to a newly created 'conformers' folder.
 import os
 import shutil
 
